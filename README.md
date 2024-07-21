@@ -3,20 +3,20 @@ Sou estudante de contabilidade pela Universidade Federal do Ceará e aluno do Pr
 em Parceria com o Senac-Ceará
 
 🚀 Tecnologias e Ferramentas:
-Linguagens: Python
-Banco de Dados: MySQL
+Linguagens: Python,
+Banco de Dados: MySQL,
 Ferramentas de Versionamento: Git, GitHub
 
 💼 Experiência:
-Estágiario de contabilidade - SIMco Healthcare
+Estágiario de contabilidade - SIMco Healthcare,
 Estágiario de contabilidade e Fiscal - AC Contabilidade
 
 🎓 Educação:
-Bacharelado em andamento no curso de Ciências Contábeis pela Universidade Federal do Ceará
+Bacharelado em andamento no curso de Ciências Contábeis pela Universidade Federal do Ceará,
 Curso em Andamento em Desenvolvedor de Sistemas pelo Senac Ceará 
 
 🌱 Atualmente Estou Aprendendo:
-Python
+Python,
 MySQL
 
 📫 Como me encontrar:
