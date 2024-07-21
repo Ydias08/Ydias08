@@ -1,16 +1,25 @@
-## Hi there 👋
+Olá! Eu sou o Yan Dias 👋
+Sou estudante de contabilidade pela Universidade Federal do Ceará e aluno do Projeto Ninho de Desenvolvedores da Prefeitura de Caucaia
+em Parceria com o Senac-Ceará
 
-<!--
-**Ydias08/Ydias08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tecnologias e Ferramentas:
+Linguagens: Python
+Banco de Dados: MySQL
+Ferramentas de Versionamento: Git, GitHub
 
-Here are some ideas to get you started:
+💼 Experiência:
+Estágiario de contabilidade - SIMco Healthcare
+Estágiario de contabilidade e Fiscal - AC Contabilidade
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Educação:
+Bacharelado em andamento no curso de Ciências Contábeis pela Universidade Federal do Ceará
+Curso em Andamento em Desenvolvedor de Sistemas pelo Senac Ceará 
+
+🌱 Atualmente Estou Aprendendo:
+Python
+MySQL
+
+📫 Como me encontrar:
+LinkedIn - https://www.linkedin.com/in/yan-dias-990775219/
+Email: yandias.inova@gmail.com
+
